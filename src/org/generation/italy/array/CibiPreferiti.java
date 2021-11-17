@@ -7,7 +7,7 @@ package org.generation.italy.array;
 				int lunghezzaArray = cibiPreferiti.length;
 				
 				System.out.println(lunghezzaArray);
-				System.out.println("Il mio cibo top è: " + cibiPreferiti[9]);
+				System.out.println("Il mio cibo top è: " + cibiPreferiti[0]);
 				System.out.println("Il mio cibo preferito ma non troppo è: " + cibiPreferiti[(cibiPreferiti.length-1)]);
 				
 				System.out.println("Il cibo di mezza classifica è: " + cibiPreferiti[(cibiPreferiti.length-1) / 2]);
